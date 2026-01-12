@@ -57,7 +57,7 @@
 
 <h3 align="center">🐍 My Contribution Snake</h3>
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/hoanghuysoft/hoanghuysoft/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
